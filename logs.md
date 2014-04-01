@@ -51,23 +51,23 @@ atton iron_maiden siman akio kkb oc masa kkz
 
 ``` [[:atton, :iron_maiden], [:siman, :akio], [:kkb, :oc], [:masa, :kkz]] ```
 
-    * siman, akio
-         scanl まで
+* siman, akio
+     scanl まで
 
-    * OC
-         scanl まで
+* OC
+     scanl まで
 
-    * kkz
-         5章終わり
+* kkz
+     5章終わり
 
-    * kkb
-         6章 foldl'
+* kkb
+     6章 foldl'
 
-    * masa
-         4章まで
+* masa
+     4章まで
 
-    * iron_mainden
-        3章の頭まで
+* iron_mainden
+    3章の頭まで
 
 ## 2014/03/27(Fri)
 
